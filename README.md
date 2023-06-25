@@ -26,10 +26,12 @@
     $ npm install -g @nestjs/cli
     ```
    
-4. run database
+4. Run database
     ```bash
     $ docker-compose run -d
     ```
+5. Clone the ```.env.template``` file and rename it as ```.env```
+6. Assigns the environment variables defined in the ```.env``` file
 
 ## Running the app
 
